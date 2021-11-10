@@ -6,16 +6,16 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 ## Code and Resources Used
 
-**R Version:** 3.6.3
+**R Version:** 3.6.3  
 **Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram  
 
-## [Barplot](./barplot)
+## [Barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/barplot)
 
-[![barplot](./barplot/barplot.png)](./barplot/barplot.R)  
+[![barplot](./barplot/barplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/barplot/barplot.R)  
 
-## [Stacked barplot](./stacked-barplot)
+## [Stacked barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/stacked-barplot)
 
-[![stacked-barplot](./stacked-barplot/stackedbarplot.png)](./stacked-barplot/stackedbarplot.R)  
+[![stacked-barplot](./stacked-barplot/stackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/stacked-barplot/stackedbarplot.R)  
 
 ## [Percent stacked barplot](./percent-stacked-barplot)
 
@@ -35,7 +35,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 ## [Venn diagram](./venndiagram)
 
-![venndiagram](./venndiagram/venndiagram.png)](./venndiagram/venndiagram.R)
+[![venndiagram](./venndiagram/venndiagram.png)](./venndiagram/venndiagram.R)
 
 ## [Wordcloud](./wordcloud)
 
