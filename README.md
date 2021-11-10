@@ -7,7 +7,8 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## Code and Resources Used
 
 **R Version:** 3.6.3  
-**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram  
+**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram    
+### **Click on the chart type to access the repo and on the chart image to access the code*
 
 ## [Barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/barplot)
 
@@ -17,58 +18,58 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![stacked-barplot](./stacked-barplot/stackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/stacked-barplot/stackedbarplot.R)  
 
-## [Percent stacked barplot](./percent-stacked-barplot)
+## [Percent stacked barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/percent-stacked-barplot)
 
-[![percent-stacked-barplot](./percent-stacked-barplot/percentstackedbarplot.png)](./percent-stacked-barplot/percentstackedbarplot.R)   
+[![percent-stacked-barplot](./percent-stacked-barplot/percentstackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/percent-stacked-barplot/percentstackedbarplot.R)   
 
-## [Circular barplot](./circular-barplot)
+## [Circular barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/circular-barplot)
 
-[![circular-barplot](./circular-barplot/circularbarplot.png)](./circular-barplot/circularbarplot.R)
+[![circular-barplot](./circular-barplot/circularbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/circular-barplot/circularbarplot.R)
 
-## [Piechart](./piechart)
+## [Piechart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/piechart)
 
-[![piechart](./piechart/piechart.png)](./piechart/piechart.R)
+[![piechart](./piechart/piechart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/piechart/piechart.R)
 
-## [Radar chart](./radarchart)
+## [Radar chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/radarchart)
 
-[![radarchart](./radarchart/radarchart.png)](./radarchart/radarchart.R)
+[![radarchart](./radarchart/radarchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/radarchart/radarchart.R)
 
-## [Venn diagram](./venndiagram)
+## [Venn diagram](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/venndiagram)
 
-[![venndiagram](./venndiagram/venndiagram.png)](./venndiagram/venndiagram.R)
+[![venndiagram](./venndiagram/venndiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/venndiagram/Venn_Diagrams.R)
 
-## [Wordcloud](./wordcloud)
+## [Wordcloud](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/wordcloud)
 
-[![wordcloud](./wordcloud/wordcloud.png)](./wordcloud/wordcloud.R)
+[![wordcloud](./wordcloud/wordcloud.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/wordcloud/wordcloud.R)
 
-## [Heatmap](./heatmap)
+## [Heatmap](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/heatmap)
 
-[![heatmap](./heatmap/heatmap.png)](./heatmap/heatmap.R)
+[![heatmap](./heatmap/heatmap.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/heatmap/heatmap.R)
 
-## [Scatterplot](./scatterplot)
+## [Scatterplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/scatterplot)
 
-[![scatterplot](./scatterplot/scatterplot.png)](./scatterplot/scatterplot.R)
+[![scatterplot](./scatterplot/scatterplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/scatterplot/scatterplot.R)
 
-## [Bubble plot](./bubbleplot)
+## [Bubble plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/bubbleplot)
 
-[![bubbleplot](./bubbleplot/bubbleplot.png)](./bubbleplot/bubbleplot.R)
+[![bubbleplot](./bubbleplot/bubbleplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/bubbleplot/bubbleplot.R)
 
-## [Lollipop plot](./lollipop)
+## [Lollipop plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/lollipop)
 
-[![lollipopplot](./lollipop/lollipop.png)](./lollipop/lollipop.R)
+[![lollipopplot](./lollipop/lollipop.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/lollipop/lollipop.R)
 
-## [Density plot](./densityplot)
+## [Density plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/densityplot)
 
-[![densityplot](./densityplot/densityplot.png)](./densityplot/densityplot.R)
+[![densityplot](./densityplot/densityplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/densityplot/desnityplot.R)
 
-## [Jitter plot](./jitterplot)
+## [Jitter plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/jitterplot)
 
-[![jitterplot](./jitterplot/jitterplot.png)](./jitterplot/jitterplot.R)
+[![jitterplot](./jitterplot/jitterplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/jitterplot/jitterplot.R)
 
-## [Boxplot](./boxplot)
+## [Boxplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/boxplot)
 
-[![boxplot](./boxplot/boxplot.png)](./boxplot/boxplot.R)
+[![boxplot](./boxplot/boxplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/boxplot/boxplot.R)
 
-## [Violin plot](./violinplot)
+## [Violin plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/violinplot)
 
-[![violinplot](./violinplot/violinplot.png)](./violinplot/violinplot.R)
+[![violinplot](./violinplot/violinplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/violinplot/violinplot.R)
