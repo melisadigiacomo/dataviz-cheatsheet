@@ -1,6 +1,8 @@
 # Candlestick chart
 
-# Library 
+# Library
+library(ggplot2)
+library(quantmod) 
 library(plotly)
 
 # Data from Apple Stock data
@@ -19,8 +21,6 @@ df %>% plot_ly(x = ~Date, type="candlestick",
                increasing = i, decreasing = d)
 
 
-# Library
-library(quantmod) 
 
 # Data from Amazon Stock data
 tesla<-getSymbols("TSLA", 

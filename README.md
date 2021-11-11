@@ -7,12 +7,17 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## Code and Resources Used
 
 **R Version:** 3.6.3  
-**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram    
+**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram, corrplot, GGally, UpSetR, quantmod, plotly
+    
 ### **Click on the chart type to access the repo and on the chart image to access the code*
 
 ## [Barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/barplot)
 
 [![barplot](./barplot/barplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/barplot/barplot.R)  
+
+## [Pareto plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/paretochart)
+
+[![paretochart](./paretochart/paretochart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/paretochart/paretochart.R) 
 
 ## [Stacked barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/stacked-barplot)
 
@@ -20,7 +25,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 ## [Percent stacked barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/percent-stacked-barplot)
 
-[![percent-stacked-barplot](./percent-stacked-barplot/percentstackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/percent-stacked-barplot/percentstackedbarplot.R)   
+[![percent-stacked-barplot](./percent-stacked-barplot/percentstackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/percent-stacked-barplot/percentstackedbarplot.R) 
 
 ## [Circular barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/circular-barplot)
 
@@ -38,9 +43,21 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![venndiagram](./venndiagram/venndiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/venndiagram/Venn_Diagrams.R)
 
+## [UpSet diagram](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/upsetdiagram)
+
+[![upsetdiagram](./upsetdiagram/upsetdiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/upsetdiagram/upsetdiagram.R)
+
 ## [Wordcloud](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/wordcloud)
 
 [![wordcloud](./wordcloud/wordcloud.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/wordcloud/wordcloud.R)
+
+## [Contour](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/contourplot)
+
+[![contourplot](./contourplot/contourplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/contourplot/contourplot.R)
+
+## [Corrplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/corrplot)
+
+[![corrplot](./corrplot/corrplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/corrplot/corrplot.R)
 
 ## [Heatmap](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/heatmap)
 
@@ -49,6 +66,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Scatterplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/scatterplot)
 
 [![scatterplot](./scatterplot/scatterplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/scatterplot/scatterplot.R)
+
+## [Pairplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/pairplot)
+
+[![pairplot](./pairplot/pairplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/pairplot/pairplot.R)
 
 ## [Bubble plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/bubbleplot)
 
@@ -73,3 +94,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Violin plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/violinplot)
 
 [![violinplot](./violinplot/violinplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/violinplot/violinplot.R)
+
+## [Candlestick plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/candlestick)
+
+[![candlestick](./candlestick/candlestick.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/candlestick/candlestick.R)
