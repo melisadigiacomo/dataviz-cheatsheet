@@ -19,6 +19,9 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![paretochart](./paretochart/paretochart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/paretochart/paretochart.R) 
 
+## [Grouped barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/groupedbarplot)
+
+[![grouped-barplot](./groupedbarplot/groupedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/groupedbarplotbarplot/groupedbarplot.R)
 ## [Stacked barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/stacked-barplot)
 
 [![stacked-barplot](./stacked-barplot/stackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/stacked-barplot/stackedbarplot.R)  
