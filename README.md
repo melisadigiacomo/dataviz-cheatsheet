@@ -4,6 +4,8 @@
 
 This is a repo that aims to provide a variety of charts with a simple R code to implement them. It is a cheatsheet for selecting the appropriate information for your dataset. Each type of chart comes with a sample dataset to test it first. The output plot is provided as a png file.  
 
+## [Link Here!](https://melisadigiacomo.github.io/Rdatavizcheatsheet/)
+
 ## Code and Resources Used
 
 **R Version:** 3.6.3  
