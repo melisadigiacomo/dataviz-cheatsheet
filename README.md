@@ -83,6 +83,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![densityplot](./densityplot/densityplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/densityplot/desnityplot.R)
 
+## [Strip chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/stripchart)
+
+[![stripchart](./stripchart/stripchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/stripchart/stripchart.R)
+
 ## [Jitter plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/jitterplot)
 
 [![jitterplot](./jitterplot/jitterplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/jitterplot/jitterplot.R)
