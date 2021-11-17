@@ -10,7 +10,7 @@ set.seed(3454)
 animal <- c(rep("A" , 3) , rep("B" , 3) , rep("C" , 3) , rep("D" , 3) )
 condition <- rep(c("cond1" , "cond2" , "cond3") , 4)
 value <- abs(rnorm(12 , 0 , 15))
-data <- data.frame(specie,condition,value)
+data <- data.frame(animal,condition,value)
 
 # Stacked barplot
 ggplot(data, aes(fill=condition, y=value, x=animal)) + 
