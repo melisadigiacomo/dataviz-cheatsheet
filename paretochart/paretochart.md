@@ -1,3 +1,6 @@
+# Pareto Chart
+
+```r
 # Pareto chart
 
 # Library
@@ -21,18 +24,5 @@ ggplot(data) +
   theme(text = element_text(size=20),
         legend.position="none",
         axis.title = element_blank())
-
-
-## 
-
-# Library
-library(qcc)
-
-# Dataset
-data1 <- data.frame(var=c('A', 'B', 'C', 'D'),
-                 count=c(40, 57, 50, 82))
-
-#Pareto Chart
-pareto.chart(data1$count, main = '',
-             ylab = "Frequency", ylab2 = "Cumulative Percentage",
-             cumperc = seq(0, 100, by = 25), plot = TRUE)
+``` 
+![paretochart](paretochart.png)
