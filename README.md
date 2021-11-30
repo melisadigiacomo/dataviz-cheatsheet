@@ -9,7 +9,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## Code and Resources Used
 
 **R Version:** 3.6.3  
-**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram, corrplot, GGally, UpSetR, quantmod, plotly
+**Packages:** ggplot2, dplyr, tidyverse, wordcloud, ggpubr, fmsb, VennDiagram, corrplot, GGally, UpSetR, quantmod, plotly, treemapify, densityridges, circlize
     
 ### **Click on the chart type to access the repo and on the chart image to access the code*
 
