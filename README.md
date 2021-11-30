@@ -32,9 +32,17 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![percent-stacked-barplot](./percent-stacked-barplot/percentstackedbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/percent-stacked-barplot/percentstackedbarplot.R) 
 
+## [Butterfly barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/butterflyplot)
+
+[![butterflyplot](./butterflyplot/butterflyplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/butterflyplot/butterflyplot.R) 
+
 ## [Circular barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/circular-barplot)
 
 [![circular-barplot](./circular-barplot/circularbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/circular-barplot/circularbarplot.R)
+
+## [Radial barplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/radial-barplot)
+
+[![circular-barplot](./radial-barplot/radialbarplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/radial-barplot/radialbarplot.R)
 
 ## [Piechart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/piechart)
 
@@ -42,7 +50,11 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 ## [Radar chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/radarchart)
 
-[![radarchart](./radarchart/radarchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/radarchart/radarchart.R)
+[![radarchart](./radarchart/radarchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/chordplot/chordplot.R)
+
+## [Chord plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/chordplot)
+
+[![chordplot](./chordplot/chordplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/radarchart/radarchart.R)
 
 ## [Venn diagram](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/venndiagram)
 
@@ -51,6 +63,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [UpSet diagram](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/upsetdiagram)
 
 [![upsetdiagram](./upsetdiagram/upsetdiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/upsetdiagram/upsetdiagram.R)
+
+## [Gauge plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/gaugeplot)
+
+[![gaugeplot](./gaugeplot/gaugeplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/gaugeplot/gaugeplot.R)
 
 ## [Wordcloud](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/wordcloud)
 
@@ -67,6 +83,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Heatmap](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/heatmap)
 
 [![heatmap](./heatmap/heatmap.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/heatmap/heatmap.R)
+
+## [Treemap plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/treemap)
+
+[![treemap](./treemap/treemap.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/treemap/treemap.R)
 
 ## [Scatterplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/scatterplot)
 
@@ -87,6 +107,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Density plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/densityplot)
 
 [![densityplot](./densityplot/densityplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/densityplot/desnityplot.R)
+
+## [Distribution plots](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/distributionplots)
+
+[![distributionplots](./distributionplots/distributionplots.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/distributionplots/distributionplots.R)
 
 ## [Strip chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/stripchart)
 
