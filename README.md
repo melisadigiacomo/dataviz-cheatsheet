@@ -54,7 +54,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 ## [Chord plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/chordplot)
 
-[![chordplot](./chordplot/chordplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/radarchart/radarchart.R)
+[![chordplot](./chordplot/chordplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/chordplot/chordplot.R)
 
 ## [Venn diagram](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/venndiagram)
 
