@@ -88,6 +88,14 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![treemap](./treemap/treemap.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/treemap/treemap.R)
 
+## [Waffle plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/waffle)
+
+[![waffle](./waffle/waffle.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/waffle/waffle.R)
+
+## [Alluvial plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/alluvialplot)
+
+[![alluvialplot](./alluvialplot/alluvialplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/alluvialplot/alluvialplot.R)
+
 ## [Scatterplot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/scatterplot)
 
 [![scatterplot](./scatterplot/scatterplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/scatterplot/scatterplot.R)
@@ -131,3 +139,7 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Candlestick plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/candlestick)
 
 [![candlestick](./candlestick/candlestick.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/candlestick/candlestick.R)
+
+## [Dumbbell plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/dumbbellplot)
+
+[![dumbbellplot](./dumbbellplot/dumbbellplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/dumbbellplot/dumbbellplot.R)
