@@ -64,10 +64,6 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![upsetdiagram](./upsetdiagram/upsetdiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/upsetdiagram/upsetdiagram.R)
 
-## [Parliament plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/parliamentplot)
-
-[![parliamentplot](./parliamentplot/parliamentplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/parliamentplot/parliamentplot.R)
-
 ## [Gauge plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/gaugeplot)
 
 [![gaugeplot](./gaugeplot/gaugeplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/gaugeplot/gaugeplot.R)
@@ -147,3 +143,15 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 ## [Dumbbell plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/dumbbellplot)
 
 [![dumbbellplot](./dumbbellplot/dumbbellplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/dumbbellplot/dumbbellplot.R)
+
+## [Parliament plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/parliamentplot)
+
+[![parliamentplot](./parliamentplot/parliamentplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/parliamentplot/parliamentplot.R)
+
+## [Rank Chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/rankchart)
+
+[![rankchart](./rankchart/rankchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/rankchart/rankchart.R)
+
+## [Bump Chart](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/bumpchart)
+
+[![bumpchart](./bumpchart/bumpchart.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/bumpchart/bumpchart.R)
