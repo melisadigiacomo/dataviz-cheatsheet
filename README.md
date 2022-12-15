@@ -64,6 +64,10 @@ This is a repo that aims to provide a variety of charts with a simple R code to 
 
 [![upsetdiagram](./upsetdiagram/upsetdiagram.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/upsetdiagram/upsetdiagram.R)
 
+## [Parliament plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/parliamentplot)
+
+[![parliamentplot](./parliamentplot/parliamentplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/parliamentplot/parliamentplot.R)
+
 ## [Gauge plot](https://github.com/melisadigiacomo/dataviz-cheatsheet/tree/master/gaugeplot)
 
 [![gaugeplot](./gaugeplot/gaugeplot.png)](https://github.com/melisadigiacomo/dataviz-cheatsheet/blob/master/gaugeplot/gaugeplot.R)
